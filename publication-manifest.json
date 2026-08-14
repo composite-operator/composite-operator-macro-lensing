@@ -1,0 +1,538 @@
+{
+  "files": [
+    {
+      "path": ".nojekyll",
+      "sha256": "f01a374e9c81e3db89b3a42940c4d6a5447684986a1296e42bf13f196eed6295"
+    },
+    {
+      "path": "assets/style.css",
+      "sha256": "9c61d1ddc9b1dc900c671e1f3eeb1ee523ae71e5b1efb104d75eb57744006a51"
+    },
+    {
+      "path": "index.html",
+      "sha256": "73d31e297e985be2becc5a955dc6fdcaba577ff05be76ebf5d5925161eac00a4"
+    },
+    {
+      "path": "posts.json",
+      "sha256": "f0fdafbfd4a9452af427e8d80f7cfdb2b61ee444a51daa7a09435a583be5436b"
+    },
+    {
+      "path": "posts/2023-03-16-dollar-and-volatility-keep-risk-defensive.html",
+      "sha256": "068e1b405953e6367198d188645c5521e2ef928dcb09e4b2fd3ecb8d35e4e091"
+    },
+    {
+      "path": "posts/2023-03-17-commodity-signals-split-the-macro-tape.html",
+      "sha256": "7a974f81f5bd6c7536471208d4eecc5190695eafc7de8278eac5c4d0e7d9cb27"
+    },
+    {
+      "path": "posts/2023-03-19-tech-leadership-faces-a-defensive-test.html",
+      "sha256": "b8208d024e7ae1b3e3ab5b67e1269be9c306ace29a1f79c4693cd738e3e188f9"
+    },
+    {
+      "path": "posts/2023-03-20-dollar-and-volatility-keep-risk-defensive.html",
+      "sha256": "48bc07341c53b6cbbd6998844f790e7737e6c2c89b4bc6c23634f623597c8a1a"
+    },
+    {
+      "path": "posts/2023-03-21-dollar-fx-leadership-tests-a-broader-advance.html",
+      "sha256": "0797e726f37f56c981803b54a84bba53e69885f00a4e9b50c0cf170eba862b40"
+    },
+    {
+      "path": "posts/2023-03-22-dollar-and-volatility-keep-risk-defensive.html",
+      "sha256": "42b4ad4a899b50885c237d4fd4162afecff229b590aace950d1315032caf037a"
+    },
+    {
+      "path": "posts/2023-03-23-tech-leadership-faces-a-defensive-test.html",
+      "sha256": "9f2ec406820930103e235af7d22e87531afbe9f9e600591a323dd7120dd1ad0d"
+    },
+    {
+      "path": "posts/2023-03-31-commodity-signals-split-the-macro-tape.html",
+      "sha256": "157745e9e0597602f017f1c6cb1b8685df32283cfb48f9a55a2a08704b4ffc26"
+    },
+    {
+      "path": "posts/2023-04-03-commodity-pressure-tightens-the-risk-map.html",
+      "sha256": "38cb7421e485e524636eb4bdd108e38f5f640f1644126e007cfe85a6824b7d0c"
+    },
+    {
+      "path": "posts/2023-04-04-commodity-signals-split-the-macro-tape.html",
+      "sha256": "29d8c0871f4b57a6422690fac91d62f06f15eeeeb207ed2060c8b4630d730daa"
+    },
+    {
+      "path": "posts/2023-04-05-commodity-signals-split-the-macro-tape.html",
+      "sha256": "0a662a466d72443247654d2303adce5d06734b531f62c036d8396b40eacb14cf"
+    },
+    {
+      "path": "posts/2023-04-13-dollar-crosscurrents-test-the-risk-rally.html",
+      "sha256": "fd139b747bc9591341b5642bd2b51b51b21bff93838fae5e19f280366e8f0f59"
+    },
+    {
+      "path": "posts/2023-04-17-dollar-crosscurrents-test-the-risk-rally.html",
+      "sha256": "074cac1ba20a6b0f29ff3924d3b929cf3d3923ad368a3c0064b764156ab06ae0"
+    },
+    {
+      "path": "posts/2023-04-21-commodity-signals-split-the-macro-tape.html",
+      "sha256": "35aacd63a586e0a4c37613a6ce8ced4ff6c80dcf027143fc293b5ab6f5e94cb0"
+    },
+    {
+      "path": "posts/2023-04-25-volatility-keeps-the-tape-on-trial.html",
+      "sha256": "73ad4c087bb766d318257820afe410d82b006a6f3e498ab9ee72531bab89d243"
+    },
+    {
+      "path": "posts/2023-05-02-volatility-keeps-the-tape-on-trial.html",
+      "sha256": "965ccf1470223f1d63aadca00b896d32ce2e4eea1e8f09d089a412733b97b73a"
+    },
+    {
+      "path": "posts/2023-07-24-emerging-markets-and-volatility-define-the-risk-test.html",
+      "sha256": "eb81ef0561b3c839671b3e6f10eb7853f7e4d370ef5de5c2327a13ba43032772"
+    },
+    {
+      "path": "posts/2024-06-08-rates-credit-pressure-puts-risk-on-defense.html",
+      "sha256": "117eaa106d150e18a1fb9be765b543a2f945eb217b0eb92fab75b90d1ba15148"
+    },
+    {
+      "path": "posts/2024-06-11-emerging-markets-and-rates-credit-define-the-risk-test.html",
+      "sha256": "71d791f8860728ed22783cf99078793fe6d4c1d5ec22068f45b824b60a66f0db"
+    },
+    {
+      "path": "posts/2024-06-13-breadth-small-caps-and-metals-miners-define-the-risk-tes.html",
+      "sha256": "c9ef94fc59a72d800b5d3c907a13b3996238e64c83af5837b45875dbb89ea883"
+    },
+    {
+      "path": "posts/2024-07-08-dollar-and-volatility-keep-risk-defensive.html",
+      "sha256": "3988dba91b66af07d41f6d70a53933377e45f4042dd4c65f9995343dfc888241"
+    },
+    {
+      "path": "posts/2025-07-10-rates-credit-and-crypto-define-the-risk-test.html",
+      "sha256": "6465ec0da10998d7568c61a312bec47c998e3d6001d4dfcd61c1bb28d0ae5c40"
+    },
+    {
+      "path": "posts/2025-07-15-breadth-small-caps-leadership-tests-a-broader-advance.html",
+      "sha256": "6723a39068622fdc4d888d6db48ff55f59d30818136facbd8bf778f1eff3264b"
+    },
+    {
+      "path": "posts/2025-12-04-tech-leadership-reopens-the-risk-window.html",
+      "sha256": "aa5ca720c27b79f78e4d4467f6121d13a79d2723efd6f8b8ce9581b9be21f8ae"
+    },
+    {
+      "path": "posts/2025-12-12-industrials-and-rates-credit-define-the-risk-test.html",
+      "sha256": "e41bb71d0e550185c9d28e235318d3fa17b1c5501f792713074b37f7d030c1d3"
+    },
+    {
+      "path": "posts/2025-12-16-volatility-keeps-the-tape-on-trial.html",
+      "sha256": "e2c7b0006624c439ed6a01cc06aedcd792b6335ee58107f32f722304e5163c61"
+    },
+    {
+      "path": "posts/2025-12-17-emerging-markets-and-crypto-define-the-risk-test.html",
+      "sha256": "cc353a151c142662dfd02778e71addb09be3d8567cdd21b31c64578b58587098"
+    },
+    {
+      "path": "posts/2025-12-18-volatility-keeps-the-tape-on-trial.html",
+      "sha256": "4f23ddd3d7cc34718b17980b6fac0099000146829b3beaee6229b2d775c91647"
+    },
+    {
+      "path": "posts/2026-01-06-commodity-signals-split-the-macro-tape.html",
+      "sha256": "083a0a7067f20bdfe5805b4b49b1055826a7e98000c9f322a39dd10b5dcdce86"
+    },
+    {
+      "path": "posts/2026-01-07-commodity-signals-split-the-macro-tape.html",
+      "sha256": "ef1325f0e20e0095228815f6381c2616921c52c855da0aba2646677c138dc624"
+    },
+    {
+      "path": "posts/2026-01-12-commodity-signals-split-the-macro-tape.html",
+      "sha256": "412bad8485a986616bf868fcedd1cf0e7c96a2715b7f19010bac72bed8c55da7"
+    },
+    {
+      "path": "posts/2026-01-13-dollar-crosscurrents-test-the-risk-rally.html",
+      "sha256": "8f6bc1b88bb3c89f804b3fb645c8b5304346297b55df89f943084d3bb0bf85e1"
+    },
+    {
+      "path": "posts/2026-01-15-industrials-leadership-tests-a-broader-advance.html",
+      "sha256": "d24702c35a93b51c6dde30221cb05b123e7c2f1aaf4e4b86b9b30798cdd13ebe"
+    },
+    {
+      "path": "posts/2026-01-22-commodity-signals-split-the-macro-tape.html",
+      "sha256": "0f9ab7b3c06fae297894fe4e1046528c4b8babd3f319c812454eaf2f7712b7ce"
+    },
+    {
+      "path": "posts/2026-01-26-commodity-strength-broadens-the-risk-tape.html",
+      "sha256": "422c1d49b325f8d3aaa12d8367a30bf8096b09fda3fca6b53cc8bb51687ad01b"
+    },
+    {
+      "path": "posts/2026-01-27-commodity-signals-split-the-macro-tape.html",
+      "sha256": "5c8f53a793510f88dd4b09030bfe2547cdefafc5ca04bd0c680b7e8b7105995f"
+    },
+    {
+      "path": "posts/2026-01-28-commodity-signals-split-the-macro-tape.html",
+      "sha256": "960a735f2e8fb93ce14a5f5da0b946026120061003abd573dbe0fb26aac87321"
+    },
+    {
+      "path": "posts/2026-01-29-commodity-signals-split-the-macro-tape.html",
+      "sha256": "ee8fcc35ccb8698e89b42fc1be386d5b4d0a49d4341366011818234db9df9d4d"
+    },
+    {
+      "path": "posts/2026-02-02-commodity-signals-split-the-macro-tape.html",
+      "sha256": "75f77396c9d4dc40cc29d48a86ae412056bbb53ba4fdd7006bdaad5268fdfd9b"
+    },
+    {
+      "path": "posts/2026-02-03-commodity-pressure-tightens-the-risk-map.html",
+      "sha256": "ab4d4b2e37d1065a572a1ca548eac72f64a0f9d6dc4e3ab506bcb7757d02eaf2"
+    },
+    {
+      "path": "posts/2026-02-04-tech-ai-and-metals-miners-define-the-risk-test.html",
+      "sha256": "a489bf7ec6dbf1320f9733cfb82a66f7be795142a8a70a959eee35aac1fed25c"
+    },
+    {
+      "path": "posts/2026-02-05-commodity-signals-split-the-macro-tape.html",
+      "sha256": "590a5dda44d98af8220c503608e8e2d1500eec9c9979402ea1684207592495c6"
+    },
+    {
+      "path": "posts/2026-02-07-tech-ai-and-metals-miners-define-the-risk-test.html",
+      "sha256": "3784e09312c1d27d953cb21bc3a43f58f599bf9a3c8f5444dedb1ad3fc7a4731"
+    },
+    {
+      "path": "posts/2026-02-10-commodity-signals-split-the-macro-tape.html",
+      "sha256": "4d36682bc123419821031ed0a5c348d7935dbcd22717d28c9b2467aa731871d6"
+    },
+    {
+      "path": "posts/2026-02-11-dollar-and-volatility-keep-risk-defensive.html",
+      "sha256": "fa01f62b900e4ebb6d9e055896906ef94f28e195f8d092319afde284f20d2596"
+    },
+    {
+      "path": "posts/2026-02-12-commodity-signals-split-the-macro-tape.html",
+      "sha256": "0cee6e454eb93b6380b8fbb1039461b2a668ed27686131db5b240004a7a87f5d"
+    },
+    {
+      "path": "posts/2026-02-17-dollar-and-volatility-keep-risk-defensive.html",
+      "sha256": "52e409009346cec4cb3156d1f284ee74692bd4d73d733cc7747dfd2ccec4d923"
+    },
+    {
+      "path": "posts/2026-02-18-dollar-and-volatility-keep-risk-defensive.html",
+      "sha256": "0dba591f8f84b93bdec02dd1463027f9cd89c1b72242a4edde98bec7148bcd9e"
+    },
+    {
+      "path": "posts/2026-02-19-tech-ai-and-crypto-define-the-risk-test.html",
+      "sha256": "ad0cc93edb17950ba978a7b1c64ddc85720793176270ff38ed206236ba888318"
+    },
+    {
+      "path": "posts/2026-02-23-commodity-signals-split-the-macro-tape.html",
+      "sha256": "e076b3d3a5b665e48c3b227f6fbaddeeeaa4e9ff7b6c55bf634dc7bea062ce6a"
+    },
+    {
+      "path": "posts/2026-02-24-commodity-signals-split-the-macro-tape.html",
+      "sha256": "92d7b8f9f292792b482f361f78ef3475725a162a209e329bb8320a7f5654809c"
+    },
+    {
+      "path": "posts/2026-02-25-commodity-signals-split-the-macro-tape.html",
+      "sha256": "b12de046e17b915abf9bb35bd7867f96fb13366e38bde838e5f5eb02f03978a8"
+    },
+    {
+      "path": "posts/2026-02-26-commodity-signals-split-the-macro-tape.html",
+      "sha256": "3dba865cc99195f332bf83501e049568584fefeac57d51f90ebbc07a9d03dd6c"
+    },
+    {
+      "path": "posts/2026-02-28-rates-credit-and-metals-miners-define-the-risk-test.html",
+      "sha256": "1448a61446d0a56b8bf3c94c46359a7ecf90b8f9a16b7e1da4fd0ff4e26599fb"
+    },
+    {
+      "path": "posts/2026-03-03-commodity-strength-broadens-the-risk-tape.html",
+      "sha256": "5226b93e39239d5a57f839aa7bc50581e3d31ceb09fc6cde382bd3ed2a955d05"
+    },
+    {
+      "path": "posts/2026-03-04-commodity-strength-broadens-the-risk-tape.html",
+      "sha256": "fa3ddcfc85ffbd8331f19204809ca9e54141ec7030d358aec5d480207a3615fa"
+    },
+    {
+      "path": "posts/2026-03-07-commodity-signals-split-the-macro-tape.html",
+      "sha256": "81c1773b370336f7e4e2aaae52a76e4bafd2bbaf2fa2b6eeea32e72055378dc2"
+    },
+    {
+      "path": "posts/2026-03-10-dollar-and-volatility-keep-risk-defensive.html",
+      "sha256": "37657e79020aa6f881ef72eab5e20fd7177ebd5ce296476a843d9aba2e1f689d"
+    },
+    {
+      "path": "posts/2026-03-11-dollar-crosscurrents-test-the-risk-rally.html",
+      "sha256": "0a93d6b7747da15399325e4f4c2a34493ec906917727ae5e2727ffeaf42db804"
+    },
+    {
+      "path": "posts/2026-03-12-commodity-signals-split-the-macro-tape.html",
+      "sha256": "091a715bf60761a715954c48355b002951f43f8b675c294e5892d8cf8420e2aa"
+    },
+    {
+      "path": "posts/2026-03-14-commodity-strength-broadens-the-risk-tape.html",
+      "sha256": "4e3e9f1b00dc00b793cdbbbc8a495be0b23cf998734a3c404e98569831cc430a"
+    },
+    {
+      "path": "posts/2026-03-17-commodity-signals-split-the-macro-tape.html",
+      "sha256": "d85b9399717f9348f7f72e7ed18e454a51f051a96575e81ac503eb15783d04c1"
+    },
+    {
+      "path": "posts/2026-03-19-commodity-signals-split-the-macro-tape.html",
+      "sha256": "959a57229b51a78bf8774b24cd8a9ec5671734dba71ee85d95dc9dd863976773"
+    },
+    {
+      "path": "posts/2026-03-21-commodity-signals-split-the-macro-tape.html",
+      "sha256": "9ad88d70e3ada2a92c6657fea69ca7a9b1d09fc60c20f40b65584ae8c83d491e"
+    },
+    {
+      "path": "posts/2026-03-25-commodity-signals-split-the-macro-tape.html",
+      "sha256": "fe89ae748967aee37f2a23e5589b04f9f4be41c26d3846fd4d5c3ca7bea257ff"
+    },
+    {
+      "path": "posts/2026-03-26-volatility-keeps-the-tape-on-trial.html",
+      "sha256": "b72c1fcdd95cfac4291bf43d2ffd5d3d88e554959a6eb981dc48654b2984aa0a"
+    },
+    {
+      "path": "posts/2026-03-28-volatility-keeps-the-tape-on-trial.html",
+      "sha256": "ac1a96ba63ed2c7d9ce947410fbc1fbdcf389c620569850a91d4ee7f215139a7"
+    },
+    {
+      "path": "posts/2026-03-30-volatility-leadership-tests-a-broader-advance.html",
+      "sha256": "711a53b95a5145a40c3248a1256e77d2caf72e612328e777f4cc3578f7ef9efe"
+    },
+    {
+      "path": "posts/2026-04-01-commodity-pressure-tightens-the-risk-map.html",
+      "sha256": "245ddcae147169f29d0485b675f554112ffb5c1a9678542cffa2d2b323ebec81"
+    },
+    {
+      "path": "posts/2026-04-07-volatility-keeps-the-tape-on-trial.html",
+      "sha256": "cdd39191a9c6b501d9edf4e115761d2696ea39059e63c110022cd5386c817fbb"
+    },
+    {
+      "path": "posts/2026-04-08-commodity-signals-split-the-macro-tape.html",
+      "sha256": "c416a692e3b1efa33b241499257c0576898e07e75d8dd2afe993bc3611fbc100"
+    },
+    {
+      "path": "posts/2026-04-09-commodity-signals-split-the-macro-tape.html",
+      "sha256": "41baf921240155252c3fc2102eb8f100246455aa3733b37f3c729546a6e13742"
+    },
+    {
+      "path": "posts/2026-04-11-tech-leadership-reopens-the-risk-window.html",
+      "sha256": "b65a2686dd0017c49c29e3097371df6a3d7803af6427e6af08feed4636edc28d"
+    },
+    {
+      "path": "posts/2026-04-13-dollar-crosscurrents-test-the-risk-rally.html",
+      "sha256": "5c3638f4c81ca0d0fc2fe014126a13ec5f50f9cca1bcff040e78c9a30c863fd1"
+    },
+    {
+      "path": "posts/2026-04-14-commodity-signals-split-the-macro-tape.html",
+      "sha256": "3bc4cd1eb17af3721fa98c02b8432549b793d1f1e84bcb4fa2b3a77161b32833"
+    },
+    {
+      "path": "posts/2026-04-15-commodity-pressure-tightens-the-risk-map.html",
+      "sha256": "79f0261aec55d83596953bcba690ac05a5c9a8318de2b166f3683a012db7cb54"
+    },
+    {
+      "path": "posts/2026-04-20-dollar-and-volatility-keep-risk-defensive.html",
+      "sha256": "d3c758f1e63bdb0e6a8de70d2836f304f186c98d0bf94665059782d30482c4e9"
+    },
+    {
+      "path": "posts/2026-04-21-commodity-signals-split-the-macro-tape.html",
+      "sha256": "5aaf4b2a37e2da7c5dc9a4c9f304bdf103fad8839a158aac8de9cb912f65c4f8"
+    },
+    {
+      "path": "posts/2026-04-22-dollar-crosscurrents-test-the-risk-rally.html",
+      "sha256": "04df33baa2e06700f933f7ca96e04086debd0a6eb6a8f508a5223ac39a5a2171"
+    },
+    {
+      "path": "posts/2026-04-23-tech-leadership-reopens-the-risk-window.html",
+      "sha256": "42a8eb0e770406f2c81bdeb451c5d90dcbae34b7ac390b9fc024f2514ac7430c"
+    },
+    {
+      "path": "posts/2026-04-25-volatility-keeps-the-tape-on-trial.html",
+      "sha256": "03954f95951a8504f1e2011b21f5b0cde506fdffd5506ab952d16f61e834be7e"
+    },
+    {
+      "path": "posts/2026-04-27-commodity-signals-split-the-macro-tape.html",
+      "sha256": "ef0e560d861ca6b42b6bfb691febb12ca7350e3f5e15be4ae415d4c17e74995b"
+    },
+    {
+      "path": "posts/2026-04-28-commodity-pressure-tightens-the-risk-map.html",
+      "sha256": "3a44d9ee5dbfeeed4116a42ce1a37995d71acb809d4734dcc2e16bf07d63628c"
+    },
+    {
+      "path": "posts/2026-04-29-dollar-and-volatility-keep-risk-defensive.html",
+      "sha256": "5b1b39eaa7f57fd4386ce71d74c22ab3cd9e2bce5661eadfce4df5d00a240605"
+    },
+    {
+      "path": "posts/2026-04-30-dollar-crosscurrents-test-the-risk-rally.html",
+      "sha256": "641ef16ef17d26d37f1e5e715f18d2f5127648be91f8ca92707cb05014e12f0f"
+    },
+    {
+      "path": "posts/2026-05-02-tech-ai-and-energy-define-the-risk-test.html",
+      "sha256": "2460dd9c673f52c4edd590ef0d3559d8a704e168d1b91571754d6125703b7a73"
+    },
+    {
+      "path": "posts/2026-05-04-dollar-and-volatility-keep-risk-defensive.html",
+      "sha256": "a2ff12167573d14c23dc3fed129f1ea615fbdb547723a9e096eb47f6b5d7fc8b"
+    },
+    {
+      "path": "posts/2026-05-05-dollar-crosscurrents-test-the-risk-rally.html",
+      "sha256": "2b171a25de82bb7dde203520690c271520c74dd9af448c8739c9f3e7925121a2"
+    },
+    {
+      "path": "posts/2026-05-06-dollar-crosscurrents-test-the-risk-rally.html",
+      "sha256": "1bc7510b2fdd525e39954be667438f164f61aeb3e582632946f0aa9ba87210e5"
+    },
+    {
+      "path": "posts/2026-05-07-dollar-crosscurrents-test-the-risk-rally.html",
+      "sha256": "c58c8f4c059e0b1920603151e6d370d77c717178d3852eacd09da676a3724010"
+    },
+    {
+      "path": "posts/2026-05-09-dollar-and-volatility-keep-risk-defensive.html",
+      "sha256": "839e1b261790be7b3071dcbb7b99b6041ac49a78aa07ce5151b1f5b182b301d5"
+    },
+    {
+      "path": "posts/2026-05-11-dollar-crosscurrents-test-the-risk-rally.html",
+      "sha256": "3072261fbd6804e463b9e500acebd1744241ad11256a66518942f63809242a01"
+    },
+    {
+      "path": "posts/2026-05-12-crypto-and-metals-miners-define-the-risk-test.html",
+      "sha256": "cd78c1d3bad622feeb83810620c7f0ead7c7403958efe985efe4f6a0e65f9258"
+    },
+    {
+      "path": "posts/2026-05-13-dollar-fx-leadership-tests-a-broader-advance.html",
+      "sha256": "26d195fff3f9e388546d811b18e6ff7d910124907e374c3b2ede29113666141a"
+    },
+    {
+      "path": "posts/2026-05-14-dollar-and-volatility-keep-risk-defensive.html",
+      "sha256": "cac3de97094c119983f7f28fd635ecf10b5410fb3961500d89114158787c3836"
+    },
+    {
+      "path": "posts/2026-05-16-rates-credit-and-emerging-markets-define-the-risk-test.html",
+      "sha256": "97f0b168f6490d32770422195353af5c46d86dad8da1c98b6a8c997513ac445b"
+    },
+    {
+      "path": "posts/2026-05-18-dollar-crosscurrents-test-the-risk-rally.html",
+      "sha256": "b997816b9d3089298d54cc5c147550938aad30cdcec51b6e78a0987d0844d3ca"
+    },
+    {
+      "path": "posts/2026-05-19-dollar-crosscurrents-test-the-risk-rally.html",
+      "sha256": "d62c21e1e980e9e0680482eb9b01009f2d434eba365f9d58e9f17036ea85de1a"
+    },
+    {
+      "path": "posts/2026-05-20-commodity-signals-split-the-macro-tape.html",
+      "sha256": "1191877a536ac1f3cf7d8329364d87f989f24b9527f0db1ea07674def94a7710"
+    },
+    {
+      "path": "posts/2026-05-21-crypto-pressure-puts-risk-on-defense.html",
+      "sha256": "09434133beb636116601cb4b225e647c2fdb28d382d5d51002356a1ad2ef3ba2"
+    },
+    {
+      "path": "posts/2026-05-23-tech-ai-and-energy-define-the-risk-test.html",
+      "sha256": "188f5b651480cdda0bf56e364c929ec49f733343311821179059d96806ca84a1"
+    },
+    {
+      "path": "posts/2026-05-26-crypto-and-energy-define-the-risk-test.html",
+      "sha256": "29c407f78b3d2cdc7e792b5452379c2323958cdc953acdd22c47e8054bcf7903"
+    },
+    {
+      "path": "posts/2026-05-27-dollar-and-volatility-keep-risk-defensive.html",
+      "sha256": "ed5134fd56260e730846c3b2f3db796a9d06ecccfee832f5a237962c31cfbeb5"
+    },
+    {
+      "path": "posts/2026-05-28-commodity-pressure-tightens-the-risk-map.html",
+      "sha256": "aa24e9adbfd9940c7883ef19265c06c662bfd70c0eef9c1b134e92891c7bb257"
+    },
+    {
+      "path": "posts/2026-05-30-commodity-pressure-tightens-the-risk-map.html",
+      "sha256": "b59fb5e1d36802c25654b3485105a2ede7a1909fa34cb861ab883ba50cc55240"
+    },
+    {
+      "path": "posts/2026-06-01-dollar-crossroads-selective-risk.html",
+      "sha256": "9c924508782ea56f34ad984a15f64332edeef9d81e05b301debdc0003e59b592"
+    },
+    {
+      "path": "posts/2026-06-02-commodity-strength-broadens-the-risk-tape.html",
+      "sha256": "b36e300a19bfcaf41b18f08232ae188e81a6ae40d883aeb22ba82b99f7e966b8"
+    },
+    {
+      "path": "posts/2026-06-03-commodity-signals-split-the-macro-tape.html",
+      "sha256": "5a98834b4c865e150fc8b22c9d9c32bff1c0dd49f8b054345f870742f4f8fd22"
+    },
+    {
+      "path": "posts/2026-06-04-rate-relief-broadens-risk.html",
+      "sha256": "f19636c13bd33b9e384434d184480dadabbde96ef0e459e0b48c095e2eccf905"
+    },
+    {
+      "path": "posts/2026-06-06-risk-curve-defensive-transition.html",
+      "sha256": "622e7131be6203fc7ec710fc80d32a31af809f5abe435ac207927423952e52c3"
+    },
+    {
+      "path": "posts/2026-06-08.html",
+      "sha256": "6244988edb92e0d6ef7353a40f0257a8968a50764e5ea33089f57d178e29b5db"
+    },
+    {
+      "path": "posts/2026-06-09-emerging-markets-pressure-puts-risk-on-defense.html",
+      "sha256": "9b340923f8cfc420bbd01d3dce393958dda53d44d97ad7b40e511742f9c8a539"
+    },
+    {
+      "path": "posts/2026-06-10-parabolic-risk-enters-a-waterfall-test.html",
+      "sha256": "be059e7019625e1976623dba060cc991fabcf8c5f2c28aafa99fc274d21de6cf"
+    },
+    {
+      "path": "posts/2026-06-11-headline-whipsaw-traps-the-middle-trade.html",
+      "sha256": "07de70d5f02543882a1f13a81843883111ec565832c66807acd6cb9e817d7c3c"
+    },
+    {
+      "path": "posts/2026-06-13.html",
+      "sha256": "55d7c38e83231374c225fe3f8507ab01a310ed5a04e08f296ce3483b03d5346b"
+    },
+    {
+      "path": "posts/2026-06-14.html",
+      "sha256": "cb388335cf4137a06849b92f3b06ba6b92dec43502206154747333fc6a622d46"
+    },
+    {
+      "path": "posts/2026-06-15.html",
+      "sha256": "8ba3a0294a56c35254a461def128c7e4cecbcb4bb9e0a655e3e012603ee00f7d"
+    },
+    {
+      "path": "posts/2026-06-16.html",
+      "sha256": "203b4a009ddc1bd0a7089d34c755869a83e06d1d32747b9902dee79b48cc01df"
+    },
+    {
+      "path": "posts/2026-06-17.html",
+      "sha256": "61b3684dadbd7072ef9d20aa07643dc041bcae49012e177f5da78967ee4e78e0"
+    },
+    {
+      "path": "posts/2026-06-20.html",
+      "sha256": "54064b7feaf0d9de0097aa0908ff6990eada8fc4e530a01b4882b342860f9ed6"
+    },
+    {
+      "path": "posts/2026-06-22-dollar-and-semis-put-risk-on-trial.html",
+      "sha256": "e4a9eebc9a75224e317233034c69a12fad1eeff5255e7cf93f6a665540635ef7"
+    },
+    {
+      "path": "posts/2026-06-23-dollar-breakout-tests-the-last-tech-bid.html",
+      "sha256": "8b67ae1025b32a32e412b4e236b85751c9ef2ab4efe52b7fc16842d72620f6e0"
+    },
+    {
+      "path": "posts/2026-06-24-micron-rescue-leaves-breadth-on-trial.html",
+      "sha256": "7cf9a4bf70939d58e70a50d774956738a08ac59effcba1c82479304f83d6e74a"
+    },
+    {
+      "path": "posts/2026-06-25-oil-reflation-tests-the-ai-capex-bubble.html",
+      "sha256": "78dfd83e9fa181f080e62edeb072baea954f61707837ccaa3bf9606ab77ccb18"
+    },
+    {
+      "path": "posts/2026-06-27-ai-capex-strain-meets-oil-reflation-risk.html",
+      "sha256": "d1bba4bde45a7fa48c5fe4a51a8ca1405f3d0cae2daadfe66f426052cb1b9b68"
+    },
+    {
+      "path": "posts/2026-06-29-holiday-melt-up-meets-oil-and-yen-stress.html",
+      "sha256": "2ad88774c89241d96526e8f8f9e5770312a557c0758ac5390fc7575faeab371c"
+    },
+    {
+      "path": "posts/2026-06-30-oil-yen-and-vix-put-squeeze-tape-on-trial.html",
+      "sha256": "069ea8882ccc5cb01d624083b93f38452981b0fc49708b7925b0ce5c54c72770"
+    },
+    {
+      "path": "research-rules.html",
+      "sha256": "7643ff886f08e42d1e62b2fe664252d7ac8822ebf1a26dcca141f60fe70ea0b2"
+    },
+    {
+      "path": "research-rules.json",
+      "sha256": "3d5e65943439e76bb71ab52ab61d20670af8b31bca6e73f14dea1f776358074a"
+    }
+  ],
+  "profile": "macro-lens",
+  "schema_version": 1
+}
