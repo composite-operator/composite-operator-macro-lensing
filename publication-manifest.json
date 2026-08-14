@@ -10,11 +10,11 @@
     },
     {
       "path": "index.html",
-      "sha256": "449223326827a73212716c21e30f3219ccf6ac26508dabbed3856a25e2d27b06"
+      "sha256": "aedf33a852a760a2c54e414b994813f3696248dc282b64ac3e6882b87441b89b"
     },
     {
       "path": "posts.json",
-      "sha256": "12dd37265c9889f7ed403be1d3130912ce83b2ea60780ef638df79367741024b"
+      "sha256": "bbe16147b4216aadf8a2d33850786222a9ae8125f710a4d4a5b343fb5c5b8975"
     },
     {
       "path": "posts/2023-03-16-dollar-and-volatility-keep-risk-defensive.html",
@@ -82,15 +82,15 @@
     },
     {
       "path": "posts/2023-07-24-emerging-markets-and-volatility-define-the-risk-test.html",
-      "sha256": "95bdb501fa2863ecb5163ceb6a38f9935b8140ec20569a4bf2621efe61da677b"
+      "sha256": "7117a0aa345901b9176f6a3130dc2559d6c7e541b891adf865c43ec4ffebc73c"
     },
     {
-      "path": "posts/2024-06-08-rates-credit-pressure-puts-risk-on-defense.html",
-      "sha256": "654c64ec7f103bda8dded0d81cd03d91f3b6584dd5c1bc3156c55ee5e03c2a9d"
+      "path": "posts/2024-06-07-rates-credit-pressure-puts-risk-on-defense.html",
+      "sha256": "9b95e5a43ed5f4505b546bbc11182e44c0b39b26d74b8753a36942b7cc3a81b9"
     },
     {
       "path": "posts/2024-06-11-emerging-markets-and-rates-credit-define-the-risk-test.html",
-      "sha256": "a05f36578e4e13d5e28821307e9456744820bafa7a2b7d5310db4fcd3d01295b"
+      "sha256": "437f6b58f32b636d82b9852db7304ce01f3f82c40bd28d8dc223b3ca14defa0f"
     },
     {
       "path": "posts/2024-06-13-breadth-small-caps-and-metals-miners-define-the-risk-tes.html",
@@ -182,15 +182,15 @@
     },
     {
       "path": "posts/2026-02-05-commodity-signals-split-the-macro-tape.html",
-      "sha256": "6b475c44df5b1ba24da67636f6e6797931ef6d434d251190201968e2269b1bec"
+      "sha256": "6be8091b987a3fcd1d6817b3a6dfb11e1145a178a030e4c5642646f3a4ec50b0"
     },
     {
-      "path": "posts/2026-02-07-tech-ai-and-metals-miners-define-the-risk-test.html",
-      "sha256": "bd38e33e487655de4c0a4664828fd2132a30780d53a37a9c7728af6109913fdc"
+      "path": "posts/2026-02-06-tech-ai-and-metals-miners-define-the-risk-test.html",
+      "sha256": "86a941f7a6e03e8fffbacbdbe7769b45371d7996dfef1a672d0a8d6758fb1375"
     },
     {
       "path": "posts/2026-02-10-commodity-signals-split-the-macro-tape.html",
-      "sha256": "5e4bb0b76c4d4c0c7018868c033e3a291f11b2e26105d54d563032489ad58bce"
+      "sha256": "7d083f69875cb933b41fe8d9bdb587aa2e877d4d3a62fdc0fbf6e658fac9039c"
     },
     {
       "path": "posts/2026-02-11-dollar-and-volatility-keep-risk-defensive.html",
@@ -226,27 +226,27 @@
     },
     {
       "path": "posts/2026-02-26-commodity-signals-split-the-macro-tape.html",
-      "sha256": "2146306dce6f90cec1721a7e701efe832d12be37c9e546102d7a6d9f03a2f3f8"
+      "sha256": "1115442fdea0aed5c8967b9eb72ef847a465ada12a6ab71d285843e53437cacf"
     },
     {
-      "path": "posts/2026-02-28-rates-credit-and-metals-miners-define-the-risk-test.html",
-      "sha256": "aba13ddbd0dd46ca7e35f5874c42b47864613c70df33983995f5a7d6bbaf7fe7"
+      "path": "posts/2026-02-27-rates-credit-and-metals-miners-define-the-risk-test.html",
+      "sha256": "36621a5caa9ce7bfd81c8ea8a3069e5992a2aaf2381968022dfa2a5ada33a113"
     },
     {
       "path": "posts/2026-03-03-commodity-strength-broadens-the-risk-tape.html",
-      "sha256": "0d8fb72db65ef1eb9a66a0e5defa816fc3c968ed573533a21a9e347267ad4b91"
+      "sha256": "5635fe672d2d14f656125cfa2f66adf91ec3f3085faa03e1a509a24cb673aa02"
     },
     {
       "path": "posts/2026-03-04-commodity-strength-broadens-the-risk-tape.html",
-      "sha256": "e921ffb18d4af04bac785b7fcfb59b3e1b4376311b70c5541aa509d05a3db9b6"
+      "sha256": "ad9ec15a133afa5bb1095337de066d94280b8f983c62e5f5cca47ec3a4e1af4b"
     },
     {
-      "path": "posts/2026-03-07-commodity-signals-split-the-macro-tape.html",
-      "sha256": "5ea7c020e0238aa19e5987177f392171bf7fd6fb6a7d0b091dc9290c7b48fb5a"
+      "path": "posts/2026-03-06-commodity-signals-split-the-macro-tape.html",
+      "sha256": "ab0d6fb4aa742fc3a9a6fdcdf2acbc9e5e4a2361682f3cfbaeff04231057f968"
     },
     {
       "path": "posts/2026-03-10-dollar-and-volatility-keep-risk-defensive.html",
-      "sha256": "3e8b6d51cf5e76d6f82f47b3dc88ecf2adddd054f22104d09ceba30b7f03d995"
+      "sha256": "7c5425f73ba31273f40c9d02d5c15540f3ddf71d2f1bb45d41c3bb98cf03ae05"
     },
     {
       "path": "posts/2026-03-11-dollar-crosscurrents-test-the-risk-rally.html",
@@ -254,39 +254,39 @@
     },
     {
       "path": "posts/2026-03-12-commodity-signals-split-the-macro-tape.html",
-      "sha256": "c70d9e2dd45bd0153ea8a28971905c925f4bd21085114a0fb882dd932c63dbc6"
+      "sha256": "e214a9fd9873bec7a9eac6eb1d5e16700cb6217824c34c30ca1fb14f87cbbcd3"
     },
     {
-      "path": "posts/2026-03-14-commodity-strength-broadens-the-risk-tape.html",
-      "sha256": "45202a1f269698e12bd872b95b8bd7cf76435d827f9979f1cb2a87b437c97212"
+      "path": "posts/2026-03-13-commodity-strength-broadens-the-risk-tape.html",
+      "sha256": "ec186f90c15d4873e67644d8859c23227318a8f392e58692dbfa3a9103fb84f5"
     },
     {
       "path": "posts/2026-03-17-commodity-signals-split-the-macro-tape.html",
-      "sha256": "20186a01d6e13965cabf2e4631365319c3673ebffe1e3d7a9e636c031fee43c3"
+      "sha256": "539d6824f76ff9d400a6a13a1b01b08d867e2a7dbc0de8bd9628299a94698dd9"
     },
     {
       "path": "posts/2026-03-19-commodity-signals-split-the-macro-tape.html",
-      "sha256": "9aff714aa315748cfe2dcf4b7c9693948f49e2c83dff7c06af22cd62bf9eaaf5"
+      "sha256": "d761c959ecfe76e417e679f11d07ad63287e14e5ca56f6938d2c3d9d5d2bbb06"
     },
     {
-      "path": "posts/2026-03-21-commodity-signals-split-the-macro-tape.html",
-      "sha256": "e3c986b2d1a4f13126ab8d61ec6bdcf451f0dd93563063a503f0534ca2145344"
+      "path": "posts/2026-03-20-commodity-signals-split-the-macro-tape.html",
+      "sha256": "99f95836aa7a7b1be5ca4c1901b4da02f3fcd522fe4d90f894602a1516c7ea82"
     },
     {
       "path": "posts/2026-03-25-commodity-signals-split-the-macro-tape.html",
-      "sha256": "a5be8424008d24de28ff585ec4d2b7abf4bb053275a4775e0d106d8ec6299349"
+      "sha256": "c4aca9c7d75813d09da9c7c629370b19fb8a82309b08f72884bb1530befdcc93"
     },
     {
       "path": "posts/2026-03-26-volatility-keeps-the-tape-on-trial.html",
-      "sha256": "b6ac9e15a70943f923eec270db5957fd96bf89c6b9c494a14c4ec30495bd78d0"
+      "sha256": "5cb474f0ffe6cfa552a20d6d07313a70d989b773beddc296df3a2ec5e66c8d5b"
     },
     {
-      "path": "posts/2026-03-28-volatility-keeps-the-tape-on-trial.html",
-      "sha256": "4dc67c780e7311e24200d5bf09fc8e56409958522dceac68ef2cb48e48fb51d3"
+      "path": "posts/2026-03-27-volatility-keeps-the-tape-on-trial.html",
+      "sha256": "80482c1228a48a621ba6b1f8c3e2570717a078769ce44f81ff208bb0a292970f"
     },
     {
       "path": "posts/2026-03-30-volatility-leadership-tests-a-broader-advance.html",
-      "sha256": "74ffd017e27daba2e4382d1a760653790fbb9c4957d5fe946bd3a5c65561d657"
+      "sha256": "dfed18e6512c11a1250cd3d899df3f1b05aa6c74718a4b4181c23fc6cca52815"
     },
     {
       "path": "posts/2026-04-01-commodity-pressure-tightens-the-risk-map.html",
@@ -302,15 +302,15 @@
     },
     {
       "path": "posts/2026-04-09-commodity-signals-split-the-macro-tape.html",
-      "sha256": "f7da999feb8c5db37b8ec0dee06c76d3905736da9133c78c9cf76a6008da9dcd"
+      "sha256": "c5d4ddbe39077d98b8a2cc71cd3bbc56c55dd1a3dccd473e4f2c9d6a6df517bb"
     },
     {
-      "path": "posts/2026-04-11-tech-leadership-reopens-the-risk-window.html",
-      "sha256": "c6bc7def865c7638e1a8d275c8bea73b65deccf96fdb95258c98d0ae6a2cd75f"
+      "path": "posts/2026-04-10-tech-leadership-reopens-the-risk-window.html",
+      "sha256": "ac9dfeebf572b8a196e8aa18bc792c205cfd8f3fe06ff6c094a3352f7a2843cb"
     },
     {
       "path": "posts/2026-04-13-dollar-crosscurrents-test-the-risk-rally.html",
-      "sha256": "03a750b39c043d1d3c69eec7676bf54a7fe0e2aadcdfe30258274207f9f10085"
+      "sha256": "a12e6a93ef86df9abe3095b5ba6ec52ef0bdcac77feeaffff95a1987a686d291"
     },
     {
       "path": "posts/2026-04-14-commodity-signals-split-the-macro-tape.html",
@@ -334,15 +334,15 @@
     },
     {
       "path": "posts/2026-04-23-tech-leadership-reopens-the-risk-window.html",
-      "sha256": "3423d21bd22d7e57ba47c6692745cf138027fcca05e36186647bde949c29db73"
+      "sha256": "30c0a4fb8165bef798b0f214bed40cfc8371aacfe1b88381e9ac20c0fd1328f4"
     },
     {
-      "path": "posts/2026-04-25-volatility-keeps-the-tape-on-trial.html",
-      "sha256": "c8826e3e519d9fe04354dea811208abdac5579fe6ab1f5a0fea520f73238fa73"
+      "path": "posts/2026-04-24-volatility-keeps-the-tape-on-trial.html",
+      "sha256": "d39d29a08c3e44bc29e0d6ff9c5fa628c7a403540c73c1708bfb31979af19ddc"
     },
     {
       "path": "posts/2026-04-27-commodity-signals-split-the-macro-tape.html",
-      "sha256": "5a8a2e82b7460433ba5022d5f2054be6ca1ea46bb64eaefd98a64481c18746ed"
+      "sha256": "b4f2d61794361ecc5dd6ba7f70499c201417ef04f44f68dba7a83f1b410aa48a"
     },
     {
       "path": "posts/2026-04-28-commodity-pressure-tightens-the-risk-map.html",
@@ -354,15 +354,15 @@
     },
     {
       "path": "posts/2026-04-30-dollar-crosscurrents-test-the-risk-rally.html",
-      "sha256": "40bdc33fd31f483a5ef37ae090c49094369e2f5ec00262f831574abdc0c757f4"
+      "sha256": "714dca6c921ecaaa252f7c3cec8945fba5471cb6ffa00163874956a921b9f3e3"
     },
     {
-      "path": "posts/2026-05-02-tech-ai-and-energy-define-the-risk-test.html",
-      "sha256": "bd3f7319d92f29df62832451f181033ddb78d4e84e9555f096cc7a2d4d10caa6"
+      "path": "posts/2026-05-01-tech-ai-and-energy-define-the-risk-test.html",
+      "sha256": "c08a0d69dad23a2c5fb09e56ba09d579f0fce0b910d764ebfd069a4946da030d"
     },
     {
       "path": "posts/2026-05-04-dollar-and-volatility-keep-risk-defensive.html",
-      "sha256": "e182220e64180d7d40bdf17b4c9615276c793c372a2055dd4ace7f52bcfa8a48"
+      "sha256": "3a90086c050c5aff3bd810a30a985fb74227d5fb7525f48007d8412d0b7ffbfa"
     },
     {
       "path": "posts/2026-05-05-dollar-crosscurrents-test-the-risk-rally.html",
@@ -374,15 +374,15 @@
     },
     {
       "path": "posts/2026-05-07-dollar-crosscurrents-test-the-risk-rally.html",
-      "sha256": "9cb13678c39c216d10bddd18bcdc1033d96c7cfb2f0c29351be57e601c4de4b4"
+      "sha256": "f4924371d62a35a8ba8de090a20fc10c00a1750c0c9bc151896010ea3d6e6cee"
     },
     {
-      "path": "posts/2026-05-09-dollar-and-volatility-keep-risk-defensive.html",
-      "sha256": "472ea2d700d91578c5ab0b572bbecb344453ba281ed95fb747e8a4c6c34478f1"
+      "path": "posts/2026-05-08-dollar-and-volatility-keep-risk-defensive.html",
+      "sha256": "cae6d9a6b2ab7a328fa54e5c9f743cb3e89e818fe1e39acdf1876c8351c50adc"
     },
     {
       "path": "posts/2026-05-11-dollar-crosscurrents-test-the-risk-rally.html",
-      "sha256": "35688b0d067d43d5603570e2a6c6084202e7896d0f91e06fec6e2b41d7593a45"
+      "sha256": "488a9bff996fbf46efdc21f3ba5c190bd5980fdf3eb5a722791763d3fb49556c"
     },
     {
       "path": "posts/2026-05-12-crypto-and-metals-miners-define-the-risk-test.html",
@@ -394,15 +394,15 @@
     },
     {
       "path": "posts/2026-05-14-dollar-and-volatility-keep-risk-defensive.html",
-      "sha256": "061ec5626f7f1fda89d15b6818f76c45f76f55cc831b5f73092d23eaa8d62b98"
+      "sha256": "9f6d4b186ab5d3237e7ab74bfc8cd546196c4a1ef81777d031072fd5cbbf4a81"
     },
     {
-      "path": "posts/2026-05-16-rates-credit-and-emerging-markets-define-the-risk-test.html",
-      "sha256": "b2347163d07d58942b3e8d403d97304b639a5f347aecd20333a48db9d5a8e392"
+      "path": "posts/2026-05-15-rates-credit-and-emerging-markets-define-the-risk-test.html",
+      "sha256": "42641eaa73ecd858efa02a894e0df41a1006cd7868ebea25ea833e7072edb5a1"
     },
     {
       "path": "posts/2026-05-18-dollar-crosscurrents-test-the-risk-rally.html",
-      "sha256": "09bf67c57f5b223c3a1491e2b1d003a72e0d56a9106f8ac5664c7325db3e8069"
+      "sha256": "486092b03f7413da270f7f351d3f400910b36df600e063defbaaaef85c74332d"
     },
     {
       "path": "posts/2026-05-19-dollar-crosscurrents-test-the-risk-rally.html",
@@ -414,15 +414,15 @@
     },
     {
       "path": "posts/2026-05-21-crypto-pressure-puts-risk-on-defense.html",
-      "sha256": "3ac323b567afb5c6257facf305a8e2f68b0c17f5eb8deef79b7862a936d0e7a6"
+      "sha256": "3ac298a6f7c8ca30ce98c123801a547f004c5ab8555a8b952a39eee6845040eb"
     },
     {
-      "path": "posts/2026-05-23-tech-ai-and-energy-define-the-risk-test.html",
-      "sha256": "1f79d60a4bb74c9659da77c21e12732298a79b8bd8eab440e5b44a71b8c280b3"
+      "path": "posts/2026-05-22-tech-ai-and-energy-define-the-risk-test.html",
+      "sha256": "2a7da6b9df6f432d20a59b67e66b346afe83a64da2e9259bb55359786dccb5ad"
     },
     {
       "path": "posts/2026-05-26-crypto-and-energy-define-the-risk-test.html",
-      "sha256": "4f65dc99e2c13b23fd09760d6705ee35fd6a38c7e341a0804569f2b20d575f75"
+      "sha256": "ae09cd76f9b1230e366d07cce3f93ee6c7db851db3b80ced88cb91b0f501a548"
     },
     {
       "path": "posts/2026-05-27-dollar-and-volatility-keep-risk-defensive.html",
@@ -430,15 +430,15 @@
     },
     {
       "path": "posts/2026-05-28-commodity-pressure-tightens-the-risk-map.html",
-      "sha256": "54e7c02b1ff40c3d1b0b23b7210801dc79db9816856ad7de170fdff7bb498540"
+      "sha256": "2e132a50249a5595ca71fa4c44740a5de00d81bf1b58de3113d7d26e6aa8a810"
     },
     {
-      "path": "posts/2026-05-30-commodity-pressure-tightens-the-risk-map.html",
-      "sha256": "e818e0982ba2d1ee33ee22b341b9192ce76f5c08053d14670ad54fc6df5e6a3e"
+      "path": "posts/2026-05-29-commodity-pressure-tightens-the-risk-map.html",
+      "sha256": "701627d2a5fec1870ebaae8d5a0ee02cec32388cdc8e5895371da014785cf477"
     },
     {
       "path": "posts/2026-06-01-dollar-crossroads-selective-risk.html",
-      "sha256": "47df2411a43816cc8c5c0564ba3f259bdef3fc129e1d619a644ad6ead5a51ddd"
+      "sha256": "01f0d02a5e3b2c8d3d55cd5b56182f9b6eccc951e3a00e1540f112209a996a4b"
     },
     {
       "path": "posts/2026-06-02-commodity-strength-broadens-the-risk-tape.html",
@@ -450,15 +450,15 @@
     },
     {
       "path": "posts/2026-06-04-rate-relief-broadens-risk.html",
-      "sha256": "26d2469096b411878688a2336b9734dd93d4d2f992392b55222a22bf18140728"
+      "sha256": "17cc41919abcedc538b57c5728d8d9669d63c0249807dbb8b5e093c805d6b749"
     },
     {
-      "path": "posts/2026-06-06-risk-curve-defensive-transition.html",
-      "sha256": "eb6e6d916aa603d44c082ef6ef9372ad384468eaaa7fcfacf69dede7fca2d8cb"
+      "path": "posts/2026-06-05-risk-curve-defensive-transition.html",
+      "sha256": "5c15247f504fb0b84fdcdd2b2df23d7632f8107d596f2b308516ee46f0471fbb"
     },
     {
       "path": "posts/2026-06-08.html",
-      "sha256": "08429232858965cc508c9d812f8464c16891ddde05d1bab2e15ef4014a571057"
+      "sha256": "22c5b07cf0cc47fe372d2723288fe90a8ddea4460b2dffec0a9e8805447c9a20"
     },
     {
       "path": "posts/2026-06-09-emerging-markets-pressure-puts-risk-on-defense.html",
@@ -470,15 +470,15 @@
     },
     {
       "path": "posts/2026-06-11-headline-whipsaw-traps-the-middle-trade.html",
-      "sha256": "445887f780ad5d49512da9db93b35e9b22870e6e8d4bf7c60d2b3d566d549349"
+      "sha256": "073b95a9eb1ce24a97dfe4ad341caa6ee26285689b953b7e8005e71f9e8c4aa9"
     },
     {
-      "path": "posts/2026-06-13.html",
-      "sha256": "9594f6530a45ae433ab762f92fbb1216765e16c3251009df8131c6170d2b2b2c"
+      "path": "posts/2026-06-12.html",
+      "sha256": "53f099e49631a2b79dfbda5999ff69a94fab8a01bf8550e93d32b58e7750e43d"
     },
     {
       "path": "posts/2026-06-14.html",
-      "sha256": "af92b6ce46fcf4015f9215632adc24f55042116c44a40c86e240b5968620aa23"
+      "sha256": "084348047568e245847aa16f8fd4c15ac5f0e3dc6443725f96dbb28c253778c1"
     },
     {
       "path": "posts/2026-06-15.html",
@@ -490,15 +490,15 @@
     },
     {
       "path": "posts/2026-06-17.html",
-      "sha256": "d4d3cfed8204c4701ec67c5f7d79f7865ee8a0454ebf20ec8541e54feeb7b21d"
+      "sha256": "d749008cb995035e20a44f6701260ece452f1f6cdd27bca96b6443e27d291f9c"
     },
     {
-      "path": "posts/2026-06-20.html",
-      "sha256": "1256305cfc2f6b9fe2f255baf76f7fba1052d6133ad64b436fac8bafc059b87e"
+      "path": "posts/2026-06-19.html",
+      "sha256": "d300ba1851815e89ae6972932366a9767249be365f8f6c5eb0fca65bc02e9c6b"
     },
     {
       "path": "posts/2026-06-22-dollar-and-semis-put-risk-on-trial.html",
-      "sha256": "80cd695c79ab56f0006ee2ec240e9e6ce0e0ce9743263dcbd0ba215ce002bbf8"
+      "sha256": "de0870ff86ef141b3c81b1cc508bfe6f55ac0fed79f85cb12f10060aadc8fb48"
     },
     {
       "path": "posts/2026-06-23-dollar-breakout-tests-the-last-tech-bid.html",
@@ -510,15 +510,15 @@
     },
     {
       "path": "posts/2026-06-25-oil-reflation-tests-the-ai-capex-bubble.html",
-      "sha256": "570360e3fea727552928c17a794d8485d08e6f40faa1a1019c53a1e7e25638eb"
+      "sha256": "b7466e2ec537294a013d9e03f0b8c0613b7df78292d8d7841204eda8b488cf4a"
     },
     {
-      "path": "posts/2026-06-27-ai-capex-strain-meets-oil-reflation-risk.html",
-      "sha256": "dbbafdd9fa48820328438767275747cc95499b20e324b997f0d09704372af0ed"
+      "path": "posts/2026-06-26-ai-capex-strain-meets-oil-reflation-risk.html",
+      "sha256": "094148f57745193e2a97e5dc52fccf4d08d4f69adaf3bb73483313adb3243d15"
     },
     {
       "path": "posts/2026-06-29-holiday-melt-up-meets-oil-and-yen-stress.html",
-      "sha256": "f164e184d081be6230e3a6f0547b9567d7bc77fbb58ee0ada9501c2b33460a45"
+      "sha256": "52f65621388c3390f38455b76f09fa05bd18af0c97ee3854fb13ad4930e7bb99"
     },
     {
       "path": "posts/2026-06-30-oil-yen-and-vix-put-squeeze-tape-on-trial.html",
@@ -538,15 +538,15 @@
     },
     {
       "path": "posts/2026-07-08-oil-rates-and-dollar-tighten-risk.html",
-      "sha256": "0ce67c5fe45471daa96bd48f6e260a795f6e7020e31c4d81952e3cd7438be6f9"
+      "sha256": "5fad0ac5efc3f419ca1c1f22b9be19cdb9d368593aa147b86792eb03845cb1cd"
     },
     {
-      "path": "posts/2026-07-11.html",
-      "sha256": "c24e1c38a66f4a1d052a75999faa5315a1696c1ff5d596baeafaa4ebe3d2b58f"
+      "path": "posts/2026-07-10.html",
+      "sha256": "5947f2083b6178b2bbb4e73290b18f945a39324166f0689f6d95650d7c6542bc"
     },
     {
       "path": "posts/2026-07-13.html",
-      "sha256": "036d3595d518c18a5282343dd3f26583858108d13c0c7db81acc8236f64d5a6b"
+      "sha256": "d84c1abbe89096ebdf96bf47aac0b0bf8af537c604f84945b9eb4ece109a7c6a"
     },
     {
       "path": "posts/2026-07-14.html",
@@ -558,15 +558,15 @@
     },
     {
       "path": "posts/2026-07-16.html",
-      "sha256": "a468499c786c4e688cf1dd07ebdfd0aefc250e2323657d57d28416bc9939e6ec"
+      "sha256": "036ff43b84fa7392e9e5b216e7b729942569106fd57ee56af32dce74e7ed0b1b"
     },
     {
-      "path": "posts/2026-07-18.html",
-      "sha256": "5312279bf3c25725174782430db8be1ef651d02662e57ffa8f163d6e9bdd3586"
+      "path": "posts/2026-07-17.html",
+      "sha256": "8fac52e605dfb0c2fcbecb6b614282c23c247d69e28e038833837590c80ec8e1"
     },
     {
       "path": "posts/2026-07-20.html",
-      "sha256": "d521ed29a67d0a2dbd935eb31e7195fb82e9e66c5c739527d457ac12fa50bcf6"
+      "sha256": "b385d6cadfa01ff15b0c0eecd7896c0f25db629673976915ad5035732cd10f70"
     },
     {
       "path": "posts/2026-07-21.html",
@@ -578,15 +578,15 @@
     },
     {
       "path": "posts/2026-07-23.html",
-      "sha256": "67b05e53901529732788b25860391d5e4915d222e8d89bb37a093919fcd85cac"
+      "sha256": "8179169d090a8fa9a0fcfff6e304b9dfa46f4e771eb8d48d88f4d4a3c8d4b543"
     },
     {
-      "path": "posts/2026-07-25.html",
-      "sha256": "c5961f9c941978bd8fc51d32de56d3da4163cee18ca409782025719cc5f27bba"
+      "path": "posts/2026-07-24.html",
+      "sha256": "e0c97ae3615cc14dabadbd96963a879b72344f69eac5ebcaef7b6632e683baec"
     },
     {
       "path": "posts/2026-07-27.html",
-      "sha256": "f4516a465702f83e21c34603f24e6751ad40299f06f5da5e19f9ece0c6a9cc77"
+      "sha256": "124d5135cfe56f9bc79fdf3e324b2b3a5ab098d8e61e90271da14d919c7c91c7"
     },
     {
       "path": "posts/2026-07-28.html",
@@ -598,15 +598,15 @@
     },
     {
       "path": "posts/2026-07-30.html",
-      "sha256": "318ec04364dbe04c6c7c2909f96c968489e8d8c80fb8363340d542b61b6b91e4"
+      "sha256": "4b6cdb34e27692602d99005b3eafbd4e025b8a199d60ccc7de274a0d26e2390a"
     },
     {
-      "path": "posts/2026-08-01.html",
-      "sha256": "471436d4d0415b60542e814c7c8115b2ba2eae10c9d6dfa17f4bef2e8051d61d"
+      "path": "posts/2026-07-31.html",
+      "sha256": "dec770d2aeb6cc1b40fdfbab8865437dacdc1d054284757e70d0c6298b3682e3"
     },
     {
       "path": "posts/2026-08-03.html",
-      "sha256": "57a8c14a3816c5d4b4c45c5c1784909308a339a0fba77a643d5f91232251f328"
+      "sha256": "bf0b08e76510e4b225f94d2fe3fec4aa1c96c307fe69848f9f66ea11e4237d30"
     },
     {
       "path": "posts/2026-08-04.html",
@@ -618,15 +618,15 @@
     },
     {
       "path": "posts/2026-08-06.html",
-      "sha256": "5181422c9835b7500bf78e38265b4387631e77f46c09bed80bf0526cf1cd3503"
+      "sha256": "7533cc043b667735f65d404bb4fe82188448bdab800527b1ca8c9c84ba3b458e"
     },
     {
-      "path": "posts/2026-08-08.html",
-      "sha256": "49cdedeb71ac85540dc4a839e659597533356eaa07d5ce3fe6f659f31a12f0da"
+      "path": "posts/2026-08-07.html",
+      "sha256": "cccf287c24e2b45d6296272fd07bec4689572f514392f881e07e5592a76f8407"
     },
     {
       "path": "posts/2026-08-10.html",
-      "sha256": "9638e209c1d44036afd67d12448c03d8af103ed092c4a965287f92b69998f311"
+      "sha256": "c7fe4731c2ae7868858ed28021d9a63f693a7b2ebe028d355a2693c401d57007"
     },
     {
       "path": "posts/2026-08-11.html",
@@ -642,11 +642,11 @@
     },
     {
       "path": "research-rules.html",
-      "sha256": "4d8ae68198ef6e64d5dd872aa0d223aeb906aa1b4e717ad0acb15c2e8740fd90"
+      "sha256": "b766964f33a7914ffcd2de683d9a411637800bcac69b7759cb4fe678908064d1"
     },
     {
       "path": "research-rules.json",
-      "sha256": "25d1be3449c43bf5cb079d2cf67fc331a2889e5193887e537d724050b55380d0"
+      "sha256": "6ca80b5eed26342293c9dae0a1c08cc99c196b6c4868b4c9c51151eb159e45e1"
     }
   ],
   "profile": "macro-lens",
