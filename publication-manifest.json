@@ -642,15 +642,15 @@
     },
     {
       "path": "posts/2026-08-14.html",
-      "sha256": "e1d36be9ccce9e70365dd1d9f41142c0be5df9ecb46208744bdedae4358f33cb"
+      "sha256": "e31eb832df2a0f1ef23af322a102e0230e41eec18998a7e76c24f4c23109f0b8"
     },
     {
       "path": "research-rules.html",
-      "sha256": "8ef730dfb2541d1af273689df8b7dfec0964af97848798da3fba2ab7af199940"
+      "sha256": "ac083a40af0393e9e34d9d55c04ac28d1532855c9c863240e1f16019775eeb91"
     },
     {
       "path": "research-rules.json",
-      "sha256": "99400a41dba78b521bd6d0d0068d30a34b6cee5ce9ef3c0e272b650ac55c7722"
+      "sha256": "3025f38b2b0fb6c39a6cdd89ca6d06a1c3cac326767e3273458b1b19bd61bffe"
     }
   ],
   "profile": "macro-lens",
