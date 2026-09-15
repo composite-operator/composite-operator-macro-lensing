@@ -10,11 +10,11 @@
     },
     {
       "path": "index.html",
-      "sha256": "0661ef1f6ce758d5abb6e04f5ba6e63bb4fcf52fff43eea3f64f28d1a1dad63a"
+      "sha256": "a682c48f57f847b283936b99fff42bef5af28494cbe28ad3367b61ce5709e116"
     },
     {
       "path": "posts.json",
-      "sha256": "a9cc19532e22718433fd72229a5eb0835594cf9f6ee85fd2f9db89f0c82d46ad"
+      "sha256": "f41b9299033c7911db30f20d739c56f57c2c457e32b499563d35abf5efb7ce6f"
     },
     {
       "path": "posts/2023-03-16-dollar-and-volatility-keep-risk-defensive.html",
@@ -718,15 +718,19 @@
     },
     {
       "path": "posts/2026-09-11.html",
-      "sha256": "702ef5a62bb1ff310d1d5cb9149b3ac1144132f8b9f70398cff9522b6815b00f"
+      "sha256": "7e7742bb69d6b0e3924a401227e0920cb09bb3e665850e17d1a9a73eb7b9e190"
+    },
+    {
+      "path": "posts/2026-09-14.html",
+      "sha256": "68679d71b4bedf7559895eb56678ae804ebee5dedbccce95f49c0104e6be413c"
     },
     {
       "path": "research-rules.html",
-      "sha256": "415455086e5f4c19b443cd7a2eea06fd32e01e1f2ec1a4e0accc50a1e9b5ed50"
+      "sha256": "5ce304a41cf91bc010f3f8ceea757cada14ea006931f7f14b7c76ca0ced218da"
     },
     {
       "path": "research-rules.json",
-      "sha256": "3971905e8d69a228dddede4baa5b956fd54e390f68a2b7b1aa67e98842f66ec5"
+      "sha256": "95564a16862a46e6962278c75d2c03dcba81d2cd578d1623c528a0b0a79e6176"
     }
   ],
   "profile": "macro-lens",
