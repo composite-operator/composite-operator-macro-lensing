@@ -2797,5 +2797,19 @@
       "RR-06: Require observable breakout or failure levels. A preferred wave path is a hypothesis. Price, breadth, and volatility must confirm it.",
       "RR-07: Record missing evidence explicitly. Do not invent credit improvement, execution status, or a completed yield peak because the narrative would benefit from it."
     ]
+  },
+  {
+    "date": "2026-10-06",
+    "display_date": "Dated 2026-10-06",
+    "title": "Nasdaq Records Meet the Long-Rate Fault Line",
+    "href": "posts/2026-10-06.html",
+    "rules": [
+      "RR-01: Use the long end as a breadth gate. Confirm rate relief through IWM , housing, utilities, credit, and volatility .",
+      "RR-02: Separate nominal growth from easy liquidity. Strong services demand can support revenue and still raise discount rates .",
+      "RR-03: Measure concentration. A record Nasdaq close does not prove that financing conditions improved for the median company.",
+      "RR-04: Define the 6% branch before adding duration risk. Set position size and hedging rules before the threshold is tested.",
+      "RR-05: Preserve evidence vintages. Keep the October 5 yield curve and September ISM report as the data available to this decision.",
+      "RR-06: Treat policy intervention as a hypothesis. Do not pay in advance for a response that has not occurred."
+    ]
   }
 ]
