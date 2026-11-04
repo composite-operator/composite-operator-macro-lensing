@@ -10,11 +10,11 @@
     },
     {
       "path": "index.html",
-      "sha256": "08f05395f811ca77d853791f2420a6b1ac8be634383bfabcea571dd305da5fa5"
+      "sha256": "87b562945d7cee0538cc5e837c6612f69bcaaec03f4667daaa41bb7e422d436b"
     },
     {
       "path": "posts.json",
-      "sha256": "421364c169912d944c4e08ab2f69300d976dbaf728aac0abd4634686479c6d37"
+      "sha256": "31ffb168cb66f7a5c5c12ee57811aee69244d7ef11bc04458ad2a07d0772f782"
     },
     {
       "path": "posts/2023-03-16-dollar-and-volatility-keep-risk-defensive.html",
@@ -794,15 +794,19 @@
     },
     {
       "path": "posts/2026-10-12.html",
-      "sha256": "f9de6080cf2f9951948259dac39fa73ad7ac2f5fb8ba5ed362afbed74334e8e9"
+      "sha256": "59c60564c0459d7ba44a8717c5d6e7abc62d73c2c3da3e3354c8a2dafac20e49"
+    },
+    {
+      "path": "posts/2026-11-03-ai-demand-liquidity-rotation.html",
+      "sha256": "ebeab2172fdd259175687d1d51a6aeaaeff84dd6f174d632209fb2e9af64c9f5"
     },
     {
       "path": "research-rules.html",
-      "sha256": "9485e2a1e664c72eb627b90aecb88100b3c8441d13c5181038c903bd4140524c"
+      "sha256": "8c92a95283c645f06c9cdec14bab92e8c2dc305d4be32fc1fc4c8f59ac2c75cf"
     },
     {
       "path": "research-rules.json",
-      "sha256": "737457615c8fe8b14a198fe11428aea807b764a6810f2d310a69da84b401d1fe"
+      "sha256": "d341c27345bced084f391ff27269a0f2c24cd73b20bc9ec5bd01cfecc7eed55d"
     }
   ],
   "profile": "macro-lens",
