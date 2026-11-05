@@ -10,11 +10,11 @@
     },
     {
       "path": "index.html",
-      "sha256": "87b562945d7cee0538cc5e837c6612f69bcaaec03f4667daaa41bb7e422d436b"
+      "sha256": "ad67ca658e06525849abd5af9642438c637fd17024388be046c4db5d74c0440d"
     },
     {
       "path": "posts.json",
-      "sha256": "31ffb168cb66f7a5c5c12ee57811aee69244d7ef11bc04458ad2a07d0772f782"
+      "sha256": "387c3d2d40bbd7886f345c5f406d52274645bd6d55c210c7f94f10bb190ce4a6"
     },
     {
       "path": "posts/2023-03-16-dollar-and-volatility-keep-risk-defensive.html",
@@ -798,15 +798,19 @@
     },
     {
       "path": "posts/2026-11-03-ai-demand-liquidity-rotation.html",
-      "sha256": "ebeab2172fdd259175687d1d51a6aeaaeff84dd6f174d632209fb2e9af64c9f5"
+      "sha256": "fd401eeba251465ac257a2950e602870923544d0495e1ad75ec0237252e35ef2"
+    },
+    {
+      "path": "posts/2026-11-04-broader-relief-split-ai-profit-pool.html",
+      "sha256": "33e31a0696402f04cd0a56cc4888e8fa2e192c80472a073a3462741a867b93bb"
     },
     {
       "path": "research-rules.html",
-      "sha256": "8c92a95283c645f06c9cdec14bab92e8c2dc305d4be32fc1fc4c8f59ac2c75cf"
+      "sha256": "6719f53180aff83170a4cd3e74be0112149e54b54d7abca9e2ad694476294eaf"
     },
     {
       "path": "research-rules.json",
-      "sha256": "d341c27345bced084f391ff27269a0f2c24cd73b20bc9ec5bd01cfecc7eed55d"
+      "sha256": "bf7156e6c377198d838aae41b2a2c733e364473676c198d8ec1695910269a2ee"
     }
   ],
   "profile": "macro-lens",
