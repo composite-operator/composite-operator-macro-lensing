@@ -10,11 +10,11 @@
     },
     {
       "path": "index.html",
-      "sha256": "ad67ca658e06525849abd5af9642438c637fd17024388be046c4db5d74c0440d"
+      "sha256": "4c04415587d77872d4dd32a156486519544867816e241e3e72bc0cd6823fa54f"
     },
     {
       "path": "posts.json",
-      "sha256": "387c3d2d40bbd7886f345c5f406d52274645bd6d55c210c7f94f10bb190ce4a6"
+      "sha256": "c6dd5606c59ca25f7565da3b5b1a754aed45f33fd30b430e695a760b42573814"
     },
     {
       "path": "posts/2023-03-16-dollar-and-volatility-keep-risk-defensive.html",
@@ -802,15 +802,19 @@
     },
     {
       "path": "posts/2026-11-04-broader-relief-split-ai-profit-pool.html",
-      "sha256": "33e31a0696402f04cd0a56cc4888e8fa2e192c80472a073a3462741a867b93bb"
+      "sha256": "2033dab63e0e02d021f3a0286bbda4b633bf221db61ba6cf91ffa3b665b524a4"
+    },
+    {
+      "path": "posts/2026-11-10-growth-meets-its-financing-bill.html",
+      "sha256": "12d8edd4ff5a49ac7f36e17768c76fb5eaadb5259a83ef61dac843179ea2e0f9"
     },
     {
       "path": "research-rules.html",
-      "sha256": "6719f53180aff83170a4cd3e74be0112149e54b54d7abca9e2ad694476294eaf"
+      "sha256": "eb343b86d4739f3d306e41edae6c4b5e15d8f6dd6d5b096f4825898955bd6b4e"
     },
     {
       "path": "research-rules.json",
-      "sha256": "bf7156e6c377198d838aae41b2a2c733e364473676c198d8ec1695910269a2ee"
+      "sha256": "f0217c479f3f57c28fbc3aab608cb893d5ab07e2b6b210c6348322ea87e6ed21"
     }
   ],
   "profile": "macro-lens",
