@@ -10,11 +10,11 @@
     },
     {
       "path": "index.html",
-      "sha256": "4c04415587d77872d4dd32a156486519544867816e241e3e72bc0cd6823fa54f"
+      "sha256": "79be943dea8c92a840fb25e328f375028bca69c90d97881d615a0d401f9734a0"
     },
     {
       "path": "posts.json",
-      "sha256": "c6dd5606c59ca25f7565da3b5b1a754aed45f33fd30b430e695a760b42573814"
+      "sha256": "e2f6ee5b8de3c3ef44aefcc8b9f664d824cbc8f11792ecbc4e770a8152e2a0b5"
     },
     {
       "path": "posts/2023-03-16-dollar-and-volatility-keep-risk-defensive.html",
@@ -806,15 +806,19 @@
     },
     {
       "path": "posts/2026-11-10-growth-meets-its-financing-bill.html",
-      "sha256": "12d8edd4ff5a49ac7f36e17768c76fb5eaadb5259a83ef61dac843179ea2e0f9"
+      "sha256": "e804bdde02819bdb3ed93f2cedb2782b536d21c566ed833fe819961855f3f269"
+    },
+    {
+      "path": "posts/2026-11-13-rotation-or-retreat.html",
+      "sha256": "97b5c934ee70d81c37cd5d5de21b41123ea9c5fce6b1e143a286edce560d315f"
     },
     {
       "path": "research-rules.html",
-      "sha256": "eb343b86d4739f3d306e41edae6c4b5e15d8f6dd6d5b096f4825898955bd6b4e"
+      "sha256": "fe620614d531de570b11155dfe07ab4fc6e87b7ccff37019e73f5c79f8431116"
     },
     {
       "path": "research-rules.json",
-      "sha256": "f0217c479f3f57c28fbc3aab608cb893d5ab07e2b6b210c6348322ea87e6ed21"
+      "sha256": "944aea9553becedd77562b5e3ea10e4d580ac5d461b3fb8de60af6029e872012"
     }
   ],
   "profile": "macro-lens",
