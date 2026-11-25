@@ -10,11 +10,11 @@
     },
     {
       "path": "index.html",
-      "sha256": "79be943dea8c92a840fb25e328f375028bca69c90d97881d615a0d401f9734a0"
+      "sha256": "fff7cf92670175cccb6201a268a6e5535e0e7e6651f60757935e4bdae9239261"
     },
     {
       "path": "posts.json",
-      "sha256": "e2f6ee5b8de3c3ef44aefcc8b9f664d824cbc8f11792ecbc4e770a8152e2a0b5"
+      "sha256": "bd0a5db483b9f62579f90f4d1451cd7b6a1501d2a08fded22a7de8635a235b7f"
     },
     {
       "path": "posts/2023-03-16-dollar-and-volatility-keep-risk-defensive.html",
@@ -810,15 +810,19 @@
     },
     {
       "path": "posts/2026-11-13-rotation-or-retreat.html",
-      "sha256": "97b5c934ee70d81c37cd5d5de21b41123ea9c5fce6b1e143a286edce560d315f"
+      "sha256": "5399f6534355ebb0c04b67ae3f33977f4865a10cbf64a9cdc57c5b6f67c189d1"
+    },
+    {
+      "path": "posts/2026-11-24-bond-rally-without-risk-relief.html",
+      "sha256": "8fb855aec22df7a71152b4e405a50d61aedd403dd03171377acb724085b91c23"
     },
     {
       "path": "research-rules.html",
-      "sha256": "fe620614d531de570b11155dfe07ab4fc6e87b7ccff37019e73f5c79f8431116"
+      "sha256": "aeba114b6f513159f7b229630ee572116dda693fba7312dc2cf419378bbbe38d"
     },
     {
       "path": "research-rules.json",
-      "sha256": "944aea9553becedd77562b5e3ea10e4d580ac5d461b3fb8de60af6029e872012"
+      "sha256": "0389a8e423f41e83ed68c958075cf0fbfbd58ceb26c0f1f5e925bd0d9969e592"
     }
   ],
   "profile": "macro-lens",
